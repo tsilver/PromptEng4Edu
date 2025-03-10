@@ -16,7 +16,7 @@ client = TeacherClient()
 # Configure page
 st.set_page_config(
     page_title="Lesson 1 Examples",
-    page_icon="🧠",
+    page_icon="images/favicon_io/favicon.ico",
     layout="wide",
     initial_sidebar_state="collapsed"
 )

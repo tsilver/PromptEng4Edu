@@ -11,7 +11,7 @@ from components.top_navigator import render_top_navigator
 # Configure page
 st.set_page_config(
     page_title="Course Examples",
-    page_icon="🧠",
+    page_icon="images/favicon_io/favicon.ico",
     layout="wide",
     initial_sidebar_state="collapsed"
 )

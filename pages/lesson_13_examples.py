@@ -14,7 +14,7 @@ from components.progress_manager import render_teacher_controls_sidebar
 # Configure page
 st.set_page_config(
     page_title="Lesson 13: Examples",
-    page_icon="🧠",
+    page_icon="images/favicon_io/favicon.ico",
     layout="wide",
     initial_sidebar_state="collapsed"
 )

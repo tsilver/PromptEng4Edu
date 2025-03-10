@@ -13,7 +13,7 @@ from components.progress_manager import save_reflection_and_navigate, get_next_l
 # Configure page
 st.set_page_config(
     page_title="Course Reflection",
-    page_icon="🧠",
+    page_icon="images/favicon_io/favicon.ico",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
