@@ -64,7 +64,8 @@ with content_col:
     You'll learn how to craft prompts that generate exactly the content you need for your teaching practice.
 
     "Our goal is to avoid 'artificial' intelligence that seeks to supplant human reasoning and leads to a loss of critical thinking skills.  We are seeking to augment and amplify human creativity and critical thinking with Generative AI." 
-    **- Dr Jules White, Vanderbilt University, [Innovative Teaching with ChatGPT](https://www.coursera.org/learn/chatgpt-innovative-teaching)**
+    
+    ***- Dr Jules White, Vanderbilt University, [Innovative Teaching with ChatGPT](https://www.coursera.org/learn/chatgpt-innovative-teaching)***
 
     """)
     
