@@ -2,6 +2,10 @@
 
 A comprehensive Streamlit-based course that teaches educators how to effectively use Large Language Models (LLMs) in their teaching practice using the PTC-FREI framework.
 
+We want to avoid 'artificial' intelligence that seeks to supplant human reasoning and leads to a loss of critical thinking skills.
+  
+We are seeking to augment and amplify human creativity and critical thinking with Generative AI.
+
 ## Course Overview
 
 This course guides educators through the fundamentals of prompt engineering, providing practical examples and interactive exercises relevant to educational contexts.
