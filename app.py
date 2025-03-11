@@ -62,6 +62,8 @@ with content_col:
     
     This comprehensive course is designed to help educators leverage AI through effective prompt engineering. 
     You'll learn how to craft prompts that generate exactly the content you need for your teaching practice.
+
+    Our goal is to avoid 'artificial' intelligence that seeks to supplant human reasoning and leads to a loss of critical thinking skills.  We are seeking to augment and amplify human creativity and critical thinking with Generative AI."
     """)
     
     # Create a visually appealing call to action with a single prominent button
